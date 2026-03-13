@@ -16,10 +16,10 @@
 ### 🚀 About Me
 
 - 🔭 I’m currently working on **Full Stack Web Applications**
-- 🌱 I’m currently learning **DevOps & Cloud Deployment**
+- 🌱 I’m currently learning **Generating AI Development**
 - 👨‍💻 All of my projects are available on my GitHub
-- 💬 Ask me about **MongoDB, Express.js, React.js, Node.js**
 - 📫 How to reach me: **sharmaavishek679@gmail.com**
+- 🧑‍💻 I am currently focused on leveraging AI to analyze resumes and create relevant interview questions to streamline recruitment processes.
 
 
 ---
